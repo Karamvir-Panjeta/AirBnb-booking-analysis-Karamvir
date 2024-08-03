@@ -1,0 +1,3 @@
+AirBnb booking analysis is all about booking on the basis of various factor. These factors are like location, price, room type, availability of room etc. In this project I analyse how booking behavior of customer change according to the price, location, room type and service provided there.
+After analysis I conclude that customer always prefer location, room type and service provided at that property. Customers ready to spend money for loaction and property services. This analysis conclude that companies must focus on specific location and room type to attain more customer and make them satisfy. Company can enhance their revenue to focus on these parameters. 
+
